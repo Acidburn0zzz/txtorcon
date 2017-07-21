@@ -18,6 +18,7 @@ unreleased
 
 `git master <https://github.com/meejah/txtorcon>`_ *will likely become v17.0.0*
 
+ * allow a `CertificateOptions` to be passed as `tls=`
 
 v0.19.3
 -------
